@@ -1,0 +1,13 @@
+name = "VerdantAges"
+author = "Lacey-Anne Sanderson (MossbornHedgehog)"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7b00529dd6124686e8666a16b6d88896d5f0a185f3eb59e43ce4be59223b491b"
+
+[versions]
+fabric = "0.18.0"
+minecraft = "1.20.1"

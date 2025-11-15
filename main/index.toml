@@ -1,0 +1,121 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "49a5aff29448322e7a650149fd935e3e95584264f20a7e3a6d0da85f2c1d0d23"
+metafile = true
+
+[[files]]
+file = "mods/additionz.pw.toml"
+hash = "ec1feec3a84a2900cbcfb9a4086114216b7fe9a7584dbff51fe7d80840f3a3c4"
+metafile = true
+
+[[files]]
+file = "mods/advancements-fullscreen.pw.toml"
+hash = "a3b6c7b10848d7690451991b30fa29facd90d3617dbf2d21c3dcc0e013ff6863"
+metafile = true
+
+[[files]]
+file = "mods/advancementssearch.pw.toml"
+hash = "cf5399077a0ded23ee9fbce9844e48e7a1093016d200719db3244827283a6ca4"
+metafile = true
+
+[[files]]
+file = "mods/adventurez.pw.toml"
+hash = "b3eccd4cf5e295af72a29ae0a081106ae9e42791a3180e15f766f1946455f04a"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
+metafile = true
+
+[[files]]
+file = "mods/amarite.pw.toml"
+hash = "57e5355245b4a51951cbc2cb459371f25fc797cc2bbff9c9c158cd909bd3936a"
+metafile = true
+
+[[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "795af5d569d14587c4a11a8e4e1bf842282b736cea0bf145cb1a0d5e44c0eef0"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "eb717689205472c2579d8c6900c64183d5feb2b5d6e05063a5ed0202cab9717d"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4eebbd915505891152179070e92c440f7ae3d3bf0ff6497936da38f77a621910"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cbc6ac7cd925b77d81d59f8f56a8d7bfdf5327570d9778b597760d61d8156e43"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
+hash = "33cd8e4bb8a10d33ce3d77186a08fbe83884976ad83afb4f1faeea8e817a97d3"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
+hash = "df3007648a7faaf6ee62b6d4d3427ba8f97fe1abee926578964006812e344af6"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
+hash = "0ca3489a35a95c7eeb86543126b9f5783a472b9634300b8287330a96a76c742d"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-emi-compat.pw.toml"
+hash = "871538acd879a84fd85533bc1e69f60e2e19b0b8c02d74bb1935af9fbaef959a"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "a29483988bb6ac70d6bc021489eb47215a6a804738a89b731290263ca07fc6a2"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "d95efc62e14e998931f267a71ffb5005ff1a28afca4f752f8bc6d7336114ae21"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "6567fdf6b5eb43425b0e2d00f932933e8cf65d89cf0842181ce87bff9bb74de3"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-nethervinery.pw.toml"
+hash = "f4bf925ad1b2e18a24361f7c78153024c45a89cdf5742efbcf823d1429ccc534"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "4fe9edc14b2c6c11df6c2b7d9805f3f98f418bff6b69a72f864bb191d110c57d"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
