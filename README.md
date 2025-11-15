@@ -19,7 +19,9 @@ This modpack is just being developed and still very much under construction. I d
  - 3D Skin Layers (skinlayers3d-fabric-1.7.2-mc1.20.1.jar)
  - [EMF] Entity Model Features (entity_model_features_fabric_1.20.1-2.2.6.jar)
  - [ETF] Entity Texture Features (entity_texture_features_fabric_1.20.1-6.2.8.jar)
- - [Let's Do Addon] EMI Compat (emi-letsdo-compat-1.8.jar)
+
+FIXED should be 1.3 [Let's Do Addon] EMI Compat (emi-letsdo-compat-1.8.jar)
+
  - [Let's Do] API (letsdo-API-fabric-1.2.14-fabric.jar)
  - [Let's Do] Bakery - Farm&Charm Compat (letsdo-bakery-fabric-2.0.3.jar)
  - [Let's Do] Brewery - Farm&Charm Compat (letsdo-brewery-fabric-2.0.3.jar)
@@ -56,7 +58,11 @@ This modpack is just being developed and still very much under construction. I d
  - Blur+ (blur-3.1.0.jar)
  - Boids (Boids-1.2.2.jar)
  - Borderless Mining (borderless-mining-1.1.8+1.20.1.jar)
- - Camera Overhaul (CameraOverhaul-v2.0.4-fabric+mc[1.20.0-1.20.5].jar)
+
+ADDED missing building but better
+
+FIXED should be 1.4.1 Camera Overhaul (CameraOverhaul-v2.0.4-fabric+mc[1.20.0-1.20.5].jar)
+
  - Cardinal Components API (cardinal-components-api-5.2.3.jar)
  - Chalk (Fabric) (chalk-2.2.4.jar)
  - Chalk: Colorful Addon (chalk-colorful-addon-2.1.1.jar)
@@ -64,18 +70,26 @@ This modpack is just being developed and still very much under construction. I d
  - Cloth Config API (cloth-config-11.1.136-fabric.jar)
  - Combat Roll (combatroll-fabric-1.3.3+1.20.1.jar)
  - Complementary Shaders - Unbound (ComplementaryUnbound_r5.3.zip)
- - Connectible Chains [Fabric] (connectiblechains-2.5.5+1.20.1.jar)
+
+FIXED should 2.2.1 Connectible Chains [Fabric] (connectiblechains-2.5.5+1.20.1.jar)
+
  - Couplings (Couplings-1.9.4+1.20.jar)
  - Crawl (crawl-0.12.0.jar)
  - Creeper Overhaul (creeperoverhaul-3.0.2-fabric.jar)
  - Crop Growth Modifier (crop_growth_modifier-1.20.1-1.1.1.jar)
- - Default Options (defaultoptions-fabric-1.20.1-18.0.4.jar)
+
+FIXED should be 18.0.1 Default Options (defaultoptions-fabric-1.20.1-18.0.4.jar)
+
  - Dehydration (dehydration-1.3.6.jar)
  - Desert Dungeon - DungeonZ addon (desert-dungeon-1.0.0.jar)
  - DEUF Refabricated (DEUF_Refabricated-MC1.20.1-1.1.0.jar)
- - Distant Horizons (DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar)
- - Drip Sounds (Drip Sounds-0.5.1+1.20.4-Fabric.jar)
- - Dungeon Now Loading (Dungeon Now Loading-fabric-1.20.1-2.11.jar)
+
+FIXED 2.2.1.a Distant Horizons (DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar)
+
+FIXED 1.19 Drip Sounds (Drip Sounds-0.5.1+1.20.4-Fabric.jar)
+
+FIXED 1.5 Dungeon Now Loading (Dungeon Now Loading-fabric-1.20.1-2.11.jar)
+
  - Dungeons and Taverns (dungeons-and-taverns-3.0.3.f.jar)
  - Dungeons and Taverns Ancient City Overhaul (dungeons-and-taverns-ancient-city-overhaul-1.jar)
  - Dungeons and Taverns Pillager Outpost Overhaul (dungeons-and-taverns-pillager-outpost-rework-1.1.jar)
@@ -83,91 +97,135 @@ This modpack is just being developed and still very much under construction. I d
  - Dungeons+ (dungeons+-1.8.4b.jar)
  - DungeonZ (dungeonz-1.0.6.jar)
  - EarlyStage (earlystage-1.1.1.jar)
- - EMI (emi-1.1.22+1.20.1+fabric.jar)
+
+FIXED 1.1.18  EMI (emi-1.1.22+1.20.1+fabric.jar)
+
  - EMI Enchanting (emi_enchanting-0.1.2+1.20.1.jar)
- - EMI Loot (emi_loot-0.7.6+1.20.1+fabric.jar)
- - EMI Ores (emi_ores-1.2+1.20.1+fabric.jar)
+
+FIXED 0.7.4 EMI Loot (emi_loot-0.7.6+1.20.1+fabric.jar)
+
+FIXED 1.0 EMI Ores (emi_ores-1.2+1.20.1+fabric.jar)
+
  - EMI Trades (emitrades-fabric-1.2.1+mc1.20.1.jar)
- - EMIffect (emiffect-fabric-2.1.6+mc1.20.1.jar)
+
+FIXED 1.1.2 EMIffect (emiffect-fabric-2.1.6+mc1.20.1.jar)
+
  - End Remastered (fabric-end-remastered-5.2.4.jar)
  - Enderman Overhaul (endermanoverhaul-fabric-1.20.1-1.0.4.jar)
- - Entity Culling (entityculling-fabric-1.9.3-mc1.20.1.jar)
+
+FIXED 1.7.1 Entity Culling (entityculling-fabric-1.9.3-mc1.20.1.jar)
+
  - EnvironmentZ (environmentz-2.0.8.jar)
  - Euphonium (euphonium-1.0.3+1.20.jar)
- - Exposure (exposure-1.20.1-1.7.16-fabric.jar)
+
+FIXED 1.7.7 Exposure (exposure-1.20.1-1.7.16-fabric.jar)
+
  - Extended Drawers (ExtendedDrawers-2.1.1+mc.1.20.1.jar)
  - ExtendedDrawersAddon (extendeddrawersaddon-1.0.2.jar)
- - Fabric API (fabric-api-0.92.6+1.20.1.jar)
- - Fabric Language Kotlin (fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar)
+
+FIXED 0.92.2 Fabric API (fabric-api-0.92.6+1.20.1.jar)
+
+should be 1.13.0 Fabric Language Kotlin (fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar)
+
  - Fabric Seasons (fabric-seasons-2.4.2-BETA+1.20.jar)
- - Fancy Block Particles - Renewed (FancyBlockParticles-1.20.1-fabric-20.1.5.1.jar)
- - FancyMenu (fancymenu_fabric_3.7.0_MC_1.20.1.jar)
- - Fast Bushy Leaves (Fancy Leaves.zip)
+
+FIXED  20.1.2.0 Fancy Block Particles - Renewed (FancyBlockParticles-1.20.1-fabric-20.1.5.1.jar)
+
+FIXED 3.3.2 FancyMenu (fancymenu_fabric_3.7.0_MC_1.20.1.jar)
+
+remove Fast Bushy Leaves (Fancy Leaves.zip)
+
  - FerriteCore (ferritecore-6.0.1-fabric.jar)
- - First-person Model (firstperson-fabric-2.6.0-mc1.20.1.jar)
- - Fishing Real (fishingreal-fabric-1.20.1-1.9.1-backport.jar)
+
+FIXED 2.4.6 First-person Model (firstperson-fabric-2.6.0-mc1.20.1.jar)
+
+FIXED 1.7.2 Fishing Real (fishingreal-fabric-1.20.1-1.9.1-backport.jar)
+
  - FleshZ (fleshz-1.5.1.jar)
- - Forge Config API Port (ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar)
- - Formations (Structure Library) (formations-1.0.4-fabric-mc1.20.2.jar)
+
+Fpmi 8.0.1 Forge Config API Port (ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar)
+
+F 1.0.3 Formations (Structure Library) (formations-1.0.4-fabric-mc1.20.2.jar)
+
  - Formations Nether (formationsnether-1.0.5.jar)
- - Formations Overworld (formationsoverworld-1.0.5-mc1.20.jar)
- - Fresh Animations (FreshAnimations_v1.10.1.zip)
- - Fresh Animations: Classic Horses (FA+Classic_Horses-v1.4.zip)
- - Fresh Animations: Details (FA+Details-v2.0.zip)
- - Fresh Animations: Emissive (FA+Emissive-v1.4.zip)
- - Fresh Animations: Objects (FA+Objects-v2.0.zip)
- - Fresh Animations: Quivers (FA+Quivers-v2.0.zip)
- - Fresh Animations: Spiders (FA+Spiders-v2.0.zip)
- - Fresh Moves (-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip)
- - Fzzy Config (fzzy_config-0.7.3+1.20.1.jar)
+
+F 1.0.4 Formations Overworld (formationsoverworld-1.0.5-mc1.20.jar)
+
+F 1.9.2 Fresh Animations (FreshAnimations_v1.10.1.zip)
+
+F 1.2 Fresh Animations: Classic Horses (FA+Classic_Horses-v1.4.zip)
+
+F 1.1 Fresh Animations: Details (FA+Details-v2.0.zip)
+
+F 1.2  Fresh Animations: Emissive (FA+Emissive-v1.4.zip)
+
+F 1.1 Fresh Animations: Objects (FA+Objects-v2.0.zip)
+
+F 1.1 Fresh Animations: Quivers (FA+Quivers-v2.0.zip)
+
+F 1.1 Fresh Animations: Spiders (FA+Spiders-v2.0.zip)
+
+F 3.0.1 Fresh Moves (-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip)
+
+F 0.5.8  - Fzzy Config (fzzy_config-0.7.3+1.20.1.jar)
+
  - Gardens of the Dead (gardens-of-the-dead-fabric-4.0.1.jar)
- - Geckolib (geckolib-fabric-1.20.1-4.8.2.jar)
- - Grass Overhaul (GrassOverhaul-Fabric-1.20.1-v25.01.31.jar)
- - Hearths (Hearths v1.0.5.mod.jar)
+
+should be 4.4.9 Geckolib (geckolib-fabric-1.20.1-4.8.2.jar)
+
+should be 23.10.11 Grass Overhaul (GrassOverhaul-Fabric-1.20.1-v25.01.31.jar)
+
+should be 1.0.1 Hearths (Hearths v1.0.5.mod.jar)
+
  - HerdsPanic (herdspanic-1.1.0.jar)
- - Hopo Better Mineshaft (HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar)
- - Hopo Better Underwater Ruins (HopoBetterUnderwaterRuins-[1.20.1-1.20.4]-1.1.5b.jar)
+
+should be 1.1.8 Hopo Better Mineshaft (HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar)
+
+should be 1.1.4 Hopo Better Underwater Ruins (HopoBetterUnderwaterRuins-[1.20.1-1.20.4]-1.1.5b.jar)
+
  - HT's TreeChop (TreeChop-1.20.1-fabric-0.19.0.jar)
- - ImmediatelyFast (ImmediatelyFast-Fabric-1.5.2+1.20.4.jar)
- - Immersive Aircraft (immersive_aircraft-1.4.0+1.20.1-fabric.jar)
- - Immersive Armors (immersive_armors-1.7.1+1.20.1-fabric.jar)
- - Immersive Snow (immersivesnow-1.20.1-1.3.2.jar)
- - Immersive UI (ImmersiveUI-FABRIC-0.3.0.jar)
+
+should be 1.3.2 ImmediatelyFast (ImmediatelyFast-Fabric-1.5.2+1.20.4.jar)
+
+should be 1.1.5 Immersive Aircraft (immersive_aircraft-1.4.0+1.20.1-fabric.jar)
+should be 1.6.1 Immersive Armors (immersive_armors-1.7.1+1.20.1-fabric.jar)
+should be 1.3.0 Immersive Snow (immersivesnow-1.20.1-1.3.2.jar)
+should be 0.2.2 Immersive UI (ImmersiveUI-FABRIC-0.3.0.jar)
  - ImmersiveThunder (ImmersiveThunder-1.20.1+1.2.2.jar)
- - Indium (indium-1.0.36+mc1.20.1.jar)
+should be 1.0.34 Indium (indium-1.0.36+mc1.20.1.jar)
  - Inmis (inmis-2.7.2-1.20.1.jar)
  - InmisAddon (inmisaddon-1.0.4.jar)
- - Iris Shaders (iris-1.7.6+mc1.20.1.jar)
+should be 1.7.5 Iris Shaders (iris-1.7.6+mc1.20.1.jar)
  - JobsAddon (jobsaddon-1.1.6.jar)
  - Jump Over Fences (jumpoverfences-fabric-1.20.1-1.3.1.jar)
- - Kiwi 🥝 (Kiwi-1.20.1-Fabric-11.8.29.jar)
+should be 11.8.27 Kiwi 🥝 (Kiwi-1.20.1-Fabric-11.8.29.jar)
  - Konkrete (konkrete_fabric_1.8.1_MC_1.20.1.jar)
  - Lavender (lavender-0.1.9+1.20.jar)
- - Let Me Despawn (letmedespawn-1.20.x-fabric-1.5.0.jar)
+should be 1.4.4 Let Me Despawn (letmedespawn-1.20.x-fabric-1.5.0.jar)
  - LevelZ (levelz-1.4.13.jar)
  - LibZ (libz-1.0.3.jar)
- - Lithium (lithium-fabric-mc1.20.1-0.11.3.jar)
- - Load My F***ing Tags (lmft-1.1.1+1.21.9-fabric.jar)
+should be 0.11.2 Lithium (lithium-fabric-mc1.20.1-0.11.3.jar)
+should be 1.0.2 Load My F***ing Tags (lmft-1.1.1+1.21.9-fabric.jar)
  - Load My Resources (loadmyresources_fabric_1.0.4-1_MC_1.20.jar)
  - Log Begone (Log-Begone-Fabric-1.20.1-1.0.8.jar)
  - lootbeams (lootbeams-2.1.1+1.20.1.jar)
- - Lootr (lootr-fabric-1.20-0.7.35.85.jar)
- - Luki's Grand Capitals (lukis-grand-capitals-1.1.2.jar)
+should be 0.7.33.81 Lootr (lootr-fabric-1.20-0.7.35.85.jar)
+should be 1.1.1 Luki's Grand Capitals (lukis-grand-capitals-1.1.2.jar)
  - M.R.U (MRU-1.0.4+1.20.1+fabric.jar)
- - Medieval Buildings (medieval_buildings-1.20.1-1.1.2-fabric.jar)
+should be 1.0.2 Medieval Buildings (medieval_buildings-1.20.1-1.1.2-fabric.jar)
  - MedievalWeapons (medievalweapons-1.4.8.jar)
  - Melody (melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar)
  - Memory Leak Fix (memoryleakfix-fabric-1.17+-1.1.5.jar)
- - MES - Moog's End Structures (mes-1.4.6-1.20-fabric.jar)
- - MNS - Moog's Nether Structures (MoogsNetherStructures-1.20-2.0.1.jar)
+should be 1.3.1 MES - Moog's End Structures (mes-1.4.6-1.20-fabric.jar)
+should be 1.0.1 MNS - Moog's Nether Structures (MoogsNetherStructures-1.20-2.0.1.jar)
  - Mod Menu (modmenu-7.2.2.jar)
  - Model Gap Fix (modelfix-1.15-fabric.jar)
- - ModernFix (modernfix-fabric-5.25.1+mc1.20.1.jar)
+should be 5.19.5 ModernFix (modernfix-fabric-5.25.1+mc1.20.1.jar)
  - Moog's Structure Lib (moogs_structures) (moogs_structure_lib-1.0.1-1.20-1.20.4-fabric.jar)
- - Moonlight Lib (moonlight-1.20-2.16.16-fabric.jar)
+should be 2.13.33 Moonlight Lib (moonlight-1.20-2.16.16-fabric.jar)
  - More Culling (moreculling-1.20.4-0.24.0.jar)
  - Nameplate (nameplate-1.1.4.jar)
- - Naturalist (naturalist-5.0pre3+fabric-1.20.1.jar)
+should be 4.0.3 Naturalist (naturalist-5.0pre3+fabric-1.20.1.jar)
  - Nature Spirit Origin (nature-spirit-1.2.jar)
  - Necronomicon API (Necronomicon-Fabric-1.6.0+1.20.1.jar)
  - Neruina - Ticking Entity Fixer (Neruina-2.3.1-beta.1-fabric+1.20.1.jar)
