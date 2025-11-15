@@ -1064,3 +1064,63 @@ metafile = true
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "f23d28e95b21a9655e615390a560bc66f3cb87610ac38cd9d849129d0600a766"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fast-bushy-leaves.pw.toml"
+hash = "3a0340a3136017cc9b388d38a98315d2c65ac2bac7737bc790bced4b8c0b6075"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-classic-horses.pw.toml"
+hash = "56ca5901a73ee4c39e09e8796ff92d7cf026a53d7fc5d65717ebb94881f2363c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-details.pw.toml"
+hash = "595e82727529453141a910c99f27302a908b5488ca782a9a1d99809276630786"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-emissive.pw.toml"
+hash = "dcd0431bf5f45761e679ed20cae3e913e02e6eb06e572d3d37e81d002ac47f5e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-objects.pw.toml"
+hash = "a91bf9ed0c2ff42ceafdea4e94eb4378bc54d807b60fd5486bfb6ffdbfc6ed2e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-quivers.pw.toml"
+hash = "d1f317de77e7912efb1c7017b044ab0c00f1df26f8894f8d51bd263b0a49d76a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-spiders.pw.toml"
+hash = "8c80dec7ad533aa7d71f6830c1a1703771025d6814803e72b706fe8a7d0e229b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lets-do-pixel-perfect.pw.toml"
+hash = "7b14687d9d0edbe2dbd4d318f4ad3b8c4ad8cc46a82e6c18259bae5e05cdb89a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "53e2da580a363c839de4c196fae91751accc5e772c065fc0cc4d07b7864f3cf8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
+metafile = true
