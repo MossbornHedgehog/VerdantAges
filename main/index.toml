@@ -9216,18 +9216,13 @@ hash = "20abedafcf5d92d97c4bcaa7d7ae4ce0769be9eabfa07a481ed2046183fde740"
 metafile = true
 
 [[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
-hash = "ad302d4bc503de96528b917401fa6f4652cc03bd2e506912d0e5157ecabe9cbd"
+hash = "c79d083fbdce21a829e3f916eeda2ab86271feee178a932059c2fe64d9ddbeac"
 metafile = true
 
 [[files]]
 file = "mods/niftycarts.pw.toml"
-hash = "85403dfbcff240580a8630397c8a2da2c9a006fc3e4236948983520121c4620d"
+hash = "967301c625cd4499dced8d62e137c60c7b8b8f3dee9d377766518784194e0bc8"
 metafile = true
 
 [[files]]
@@ -9247,17 +9242,12 @@ metafile = true
 
 [[files]]
 file = "mods/nutritionz.pw.toml"
-hash = "318e12374264ff9dd9bafa8e993e414ddbe94fa01c4f1f4f829183b1db6c9824"
+hash = "02e4cc0e99557965fc3c99a501030727ad04082f8227c54dc5af6dd18567160b"
 metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "eff75aaa788bf041f3767fb0115a0d9fbfc9d75d2464860c5b47674dfc79178e"
-metafile = true
-
-[[files]]
-file = "mods/origins.pw.toml"
-hash = "faadbd329bd9b454d469c4ebdbcee1aa718b922c86ba68db8284152cb28ecf75"
+hash = "7c0f3fe405636e29bc5c72ca8c7df5edd29ec5ea005af68cac65d61fc7b60688"
 metafile = true
 
 [[files]]
@@ -9317,7 +9307,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
+hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
 metafile = true
 
 [[files]]
@@ -9327,7 +9317,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
+hash = "bc01e49e5a2d8d32f25c29d63f32bac189ea645a54c40ffc85e6db54cc3806b2"
 metafile = true
 
 [[files]]
@@ -9342,17 +9332,17 @@ metafile = true
 
 [[files]]
 file = "mods/rpgdifficulty.pw.toml"
-hash = "e8943eaf4c1b025766ec5af7d068ac1e6c3b533ea19cee7eed11aad89d1eef0a"
+hash = "092be57b8e3fd56ccf1e737e1842d6627405521fe0860b897446228336eabaf8"
 metafile = true
 
 [[files]]
 file = "mods/rsls.pw.toml"
-hash = "17f1f78051aab0bb1b9855f9756ca41fe14aaefcedd8a3b772d8a9619d675794"
+hash = "5c37fc1bb63d60bc93fa9a51336113730c6fc392ee6819cf5975e8e2c67a33fb"
 metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "8f69680cdd81885c6283d1c1da86f22108489c0dfafaf91fbaf893cf3587c86b"
+hash = "b9b7e7fd28a2e26213354c997e4d18c4fc4cb79673be7234dbd50f334bd404b7"
 metafile = true
 
 [[files]]
@@ -9382,7 +9372,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "bd947e3ce3578234db935ad9a24c2e9c00c4d686bfb521e2a200b4cac483a7e1"
+hash = "59db79eace499655555003597737d06b98203b201eb4fd358e62c5a629723f42"
 metafile = true
 
 [[files]]
@@ -9402,7 +9392,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "2e9905bf864b9c4157c417b8d1b74ff66fc7bd7fbea4e70a33c49911d74414c2"
 metafile = true
 
 [[files]]
@@ -9412,12 +9407,12 @@ metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
-hash = "58d7767ed9ce171b4a3afe10e5d945074bdf65458b09e7c8f98a229d28dd9439"
+hash = "36e01db593f1e01ad0e6cb2d437f6e6b60a982997ff1cc1cfde197d84a7c8505"
 metafile = true
 
 [[files]]
 file = "mods/spawn-animations.pw.toml"
-hash = "ec535724ddc4ad705f7909089107dcc4863cb631acd5586fcbb991a932f9ffad"
+hash = "177c43b5d77ec9e16c82f86afa5430b3e040bb5072b4bdfdfb31f8e37631d704"
 metafile = true
 
 [[files]]
@@ -9447,7 +9442,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
+hash = "9f37f04384bd80a9c5d0dd72aa55cc7884ec18818d5657b7ec2c0dad4ff1358a"
 metafile = true
 
 [[files]]
@@ -9457,12 +9452,17 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
+hash = "fadb1aaba6c522a2cfccbc04366ebbf49bcfc336ea1f96f3ff59781ce8b94d2d"
 metafile = true
 
 [[files]]
 file = "mods/tiered.pw.toml"
 hash = "0f961d63555328738f5f04d1ab3b1ca1ccdfaf73fcf3ac8c0d042beb52402130"
+metafile = true
+
+[[files]]
+file = "mods/tieredz.pw.toml"
+hash = "e87e8c1f29a6383629874c7df178ba19e885553a0db6fc57db8b53f9e2107e39"
 metafile = true
 
 [[files]]
@@ -9503,11 +9503,6 @@ metafile = true
 [[files]]
 file = "mods/underground-worlds.pw.toml"
 hash = "2ded0ab54899c0fc731148550656ede60eaca00fd7352805c90463ea510705c6"
-metafile = true
-
-[[files]]
-file = "mods/unionlib.pw.toml"
-hash = "cbde9bfa3c81ec02be213954a0fcf19aacad1d75eaa15081c7b2ff32ae2a5b76"
 metafile = true
 
 [[files]]

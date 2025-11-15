@@ -1,13 +1,13 @@
 name = "NutritionZ"
-filename = "nutritionz-1.0.12.jar"
+filename = "nutritionz-1.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9IASI8W8/versions/dCQC1z0w/nutritionz-1.0.12.jar"
+url = "https://cdn.modrinth.com/data/9IASI8W8/versions/O20LuFar/nutritionz-1.0.11.jar"
 hash-format = "sha512"
-hash = "2571283f86df92564fe54ada060c1583125eb03d4e0210ab97498e3c5ed091423c709519f2aa0e37f6e27b31309d5d01c832359d2db52763fd287844047b7dbb"
+hash = "9156006ab11e5aa176ee8d8bcc0eceaf9e0287909a7591c04e79c419d8d7f0de80d669e12d3e4c1ba96c92e1ef859ad96ee75771f5b63ba88edf68ddace30798"
 
 [update]
 [update.modrinth]
 mod-id = "9IASI8W8"
-version = "dCQC1z0w"
+version = "O20LuFar"
