@@ -41,8 +41,98 @@ hash = "795af5d569d14587c4a11a8e4e1bf842282b736cea0bf145cb1a0d5e44c0eef0"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "e8d8fda7893c13e034a09b33d0a1258a54b0445d533f90d00a50d9a8d862921a"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "999898de55bf75c6ca35908cbecf65947fb3cc2caf42e5a21b0ef0a9775b9c2c"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/arrp.pw.toml"
+hash = "6a3c8dc042cb38689a43cb3820d2aea344cc09e80b5c694ca834ce8dccea44e2"
+metafile = true
+
+[[files]]
+file = "mods/astrocraft.pw.toml"
+hash = "235da79d8d0831df81bf4930672f73bc2949526bcaac9f7a859b0bc72bdb4339"
+metafile = true
+
+[[files]]
+file = "mods/async-locator.pw.toml"
+hash = "724f61e7275d6a46f035a411271466f6626238883998a8fb8c6558b5756aa42d"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+metafile = true
+
+[[files]]
+file = "mods/autotag.pw.toml"
+hash = "a225404286ee9479f97a8545c96dca0c8e78a1aff1f8546d55915373196a81c0"
+metafile = true
+
+[[files]]
+file = "mods/backslot.pw.toml"
+hash = "0f7859d7d76a6a30901dc8ec9adfb0b2c25e7c7e50d415d08e67bc8868a2e38d"
+metafile = true
+
+[[files]]
+file = "mods/backslotaddon.pw.toml"
+hash = "869968bed57d6a74c3f57420c03d66fb0723e05b60fbf68d74e55e6f14c9033a"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "6c5a2fc560751c90dd40b0be4a28c9271aea8d2cf2d5c59cbfa3014e53dbfea6"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "23acea5043b043f4307ee1ce9d3738340ee72e5d3915322d7cee40403265f41b"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "d7dcbb9489b17fbe221d3a59ab2503293b219cee29d07a08aefbe32c5f3bf160"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
+metafile = true
+
+[[files]]
+file = "mods/better-end-cities-base.pw.toml"
+hash = "2c05589983f4432f7f2f540bc9f38a030b21f2424dba577d6a8df68fd56a662a"
+metafile = true
+
+[[files]]
+file = "mods/birds-boids-addon.pw.toml"
+hash = "3984fe02651f6f479e8b1f61f6fbad6fe83a2051c281f2cdcb47786ee20f9727"
+metafile = true
+
+[[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "04ddfc50d957ad8cd71306a19b98b3b64d5235bb1c6a694592087ccb1f0c0dfc"
+metafile = true
+
+[[files]]
+file = "mods/boids.pw.toml"
+hash = "deb918a0a34f477a92966092d3d6186cd4ca51f02bf22e409507b5fd320322ad"
 metafile = true
 
 [[files]]
@@ -116,6 +206,26 @@ hash = "4fe9edc14b2c6c11df6c2b7d9805f3f98f418bff6b69a72f864bb191d110c57d"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
