@@ -12,6 +12,12 @@ This modpack is highly inspired by the [Aged Modpack](https://modrinth.com/modpa
 
 This modpack is just being developed and still very much under construction. I do not recommend using it at this time.
 
+Tasks
+
+- [x] Bring Aged 3.1.2 modpack into packwiz for controlled update (PR #6)
+- [ ] Update mods included in Aged to the most recent version that works reliably on MC 1.20.1 with all the other mods included.
+- [ ] Update Distant Horizons to the most recent version so we can use it on servers.
+
 ## Contents
 
  - 3D Skin Layers (skinlayers3d-fabric-1.7.2-mc1.20.1.jar)
