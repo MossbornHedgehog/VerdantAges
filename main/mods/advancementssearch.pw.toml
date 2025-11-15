@@ -1,0 +1,13 @@
+name = "AdvancementsSearch"
+filename = "advancementssearch-mc1.20+1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ccho67RI/versions/htZDSAnN/advancementssearch-mc1.20%2B1.0.jar"
+hash-format = "sha512"
+hash = "05bacb20b5f2a0fe034e3bd2b49dfe46e476e2a6688de70bd802f6390c51019a30906a81a36835eda33f6c6eaebfee57cb4431fdeb893ba9e043f7c9a1284eed"
+
+[update]
+[update.modrinth]
+mod-id = "Ccho67RI"
+version = "htZDSAnN"

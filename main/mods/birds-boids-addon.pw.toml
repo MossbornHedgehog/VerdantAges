@@ -1,0 +1,13 @@
+name = "Birds | Boids Addon"
+filename = "birdsboids-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CvX6rOtB/versions/JK2QzDCr/birdsboids-1.1.0.jar"
+hash-format = "sha512"
+hash = "46df525e4523facfb286a882f6d3c38a1cf01c63e632ce70438d5307d3b2e94841ceaacabe02edff679bd1361c1ba1a20fb6fc219f4fab3535c9215dfb3cc5f9"
+
+[update]
+[update.modrinth]
+mod-id = "CvX6rOtB"
+version = "JK2QzDCr"

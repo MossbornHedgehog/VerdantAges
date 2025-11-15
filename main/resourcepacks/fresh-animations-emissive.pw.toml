@@ -1,0 +1,13 @@
+name = "Fresh Animations: Emissive"
+filename = "FA+Emissive-v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VRS2YQn9/versions/cxLMymMb/FA%2BEmissive-v1.2.zip"
+hash-format = "sha512"
+hash = "2e3e9228338ec3cfa1b1e0dc608eaa2331e572b6e268fe10d3a15f3777a4a57b910b3302b4fda4d17a68d487866a355069ca1032efdc07cdab59fb68b45901f3"
+
+[update]
+[update.modrinth]
+mod-id = "VRS2YQn9"
+version = "cxLMymMb"
