@@ -1,9 +1,7 @@
 name: Modpack Release | Pipeline
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 env:
   pack-file: 'pack.toml'
@@ -24,7 +22,7 @@ jobs:
 
     outputs:
       modpack-folders: ${{ steps.list-modpacks.outputs.modpack-folders }}
-    
+
     steps:
 
       - name: Check Out Git Repository
@@ -41,7 +39,7 @@ jobs:
               fi
             fi
           done
-          
+
           echo "modpack-folders=$(jq --compact-output --null-input '$ARGS.positional' --args -- "${modpackFolders[@]}")" >> "$GITHUB_OUTPUT"
 
 
@@ -53,7 +51,7 @@ jobs:
 
     needs:
       - parse-current-modpacks
-  
+
     if: ${{ (needs.parse-current-modpacks.outputs.modpack-folders) != '[]' }}
 
     strategy:
@@ -74,7 +72,7 @@ jobs:
       pull-requests: write
 
 
-    steps:      
+    steps:
 
       - name: Perform Release with Release Please
         id: release-please
@@ -85,7 +83,7 @@ jobs:
           release-type: simple
           package-name: ${{ matrix.modpack }}
           prerelease: true
-          changelog-types: > 
+          changelog-types: >
             [{"type":"feat","section":"★ Features","hidden":false},
             {"type":"fix","section":"♻ Bug Fixes","hidden":false},
             {"type":"mod","section":"☀ Modpack Changes","hidden":false},
