@@ -14,8 +14,10 @@ This modpack is just being developed and still very much under construction. I d
 
 Tasks
 
-- [x] Bring Aged 3.1.2 modpack into packwiz for controlled update (PR #6)
+- [x] Bring Aged 3.1.2 modpack into packwiz for controlled update ([PR #6](https://github.com/laceysanderson/VerdantAges/pull/6))
 - [ ] Update mods included in Aged to the most recent version that works reliably on MC 1.20.1 with all the other mods included.
+- [ ] Comb through all the config and make sure it is set the way I want it.
+- [ ] Use [Item Obliterator](https://modrinth.com/mod/item-obliterator) to remove items that I don't want available. This will make the blocks available more curated and "natural".
 - [ ] Update Distant Horizons to the most recent version so we can use it on servers.
 
 ## Contents
