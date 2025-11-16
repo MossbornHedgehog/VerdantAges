@@ -1,8 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: VerdantAges
+layout: splash
+permalink: /
+header:
+  overlay_color: '#000'
+  overlay_filter: "0.5"
+  overlay_image: https://raw.githubusercontent.com/MommyHedgehog/VerdantAges/refs/heads/main/assets/ModpackTitle.png
+excerpt: 'An immersive medieval-inspired modpack focused on exploration of the natural world.'
 ---
 
 This is where I will start describing my site.
