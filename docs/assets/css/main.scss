@@ -6,8 +6,8 @@
 
 /* Colors */
 $background-color: #0e1509 !default;
-$text-color: #eaeaea !default;
-$primary-color: #00adb5 !default;
+$text-color: #aeae9a !default;
+$primary-color: #929372 !default;
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
@@ -19,6 +19,40 @@ $link-color-visited: mix(#000, $link-color, 25%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+/* Fonts */
+$brand-font: "Macondo Swash Caps", cursive !default;
+$accent-font: "Eagle Lake", serif;
+$main-font: "Averia Libre",system-ui, sans-serif !default;
 
+/* Minimal Mistakes imports */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Custom Styles */
+body {
+  font-family: $main-font;
+}
+.site-title img {
+  max-height: 3rem;
+  margin-right: 1rem;
+  margin-bottom: -0.5rem;
+}
+
+.site-subtitle {
+  color: $primary-color;
+  font-style: italic;
+}
+
+.masthead__inner-wrap {
+  font-family: $brand-font;
+}
+
+.page__title {
+  font-family: $accent-font;
+}
+
+.page__hero--overlay .page__lead {
+  font-family: $accent-font;
+  color: $primary-color;
+  font-size: 1.5em;
+}
