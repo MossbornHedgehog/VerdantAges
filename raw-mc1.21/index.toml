@@ -1,2 +1,50 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "REAME.md"
+hash = "e8647bf96ed29b1aeb7057c19621f48c242aab422999ec078767d32ea6ad73bf"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "e8f9777f464a096a79d1aaa7d4864392d4b832a591d805a237cc8a7f333e5418"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
+
+[[files]]
+file = "config/seasonhud-client.toml"
+hash = "8f3b77eb197dafb20d0cc6b74d0f1529565c989d9e168ac0e2d04e080007db67"
+
+[[files]]
+file = "config/seasonhud-server.toml"
+hash = "dd85169ae51499bda7ba515c446efad7a5582376fba8b5a1028b5a1f3af7d094"
+
+[[files]]
+file = "config/seasons.json"
+hash = "39776bf29c63206c70e16c71cce5c51b2598a57cff52e7eff23685d3c4e332cd"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "7833078d6daef78131f8cc43425ef5292413e966154ac3ce305e17196bd530e2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "d40faa8d75ec7b4741146b033dca1d47368868985da3dcc6dc32fd9def5841d9"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "58ab3fa10998c4266cf6edd1e7964c23146f946a8257d20c1bb189be787d1719"
+metafile = true
