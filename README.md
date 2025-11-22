@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/laceysanderson/VerdantAges/master/assets/ModpackTitle.png" alt="Logo">
 </div>
 
-<p align="center" style="font-style:italic">A challenging medieval-inspired modpack focused on exploration of the natural world.</p>
+<p align="center" style="font-style:italic">An immersive medieval-inspired modpack focused on exploration of the natural world.</p>
 
 ---
 
@@ -14,12 +14,14 @@ This modpack is just being developed and still very much under construction. I d
 
 Development is currently focused in the `raw-mc1.21` directory with a bottom-up build on version 1.21.1 with mods that I loved in Aged.
 
+We are documenting this as we do so you can see the specific implementation of various features in this modpack by checking out [https://mossbornhedgehog.github.io/VerdantAges/](https://mossbornhedgehog.github.io/VerdantAges/).
+
 **Note: `main` includes my attempt at getting Aged into packwiz. Originally I wanted to update Aged with new versions but was too overwhelmed with the number of mods and complexity of their interactions.**
 
 ## Tasks
 
 - [x] Implement Seasons using "Fabric Seasons", "SeasonHUD" and "Fabric Season Extras".
-- [ ] Update the game menus to have the beautiful feel that Aged had but with my own graphics.
+- [x] Update the game menus to have the beautiful feel that Aged had but with my own graphics.
 - [ ] Add in world generation mods like "Nature's Spirit", "Naturalist", "Terrablender", "Boids", etc.
 - [ ] Add in Yung's Better Builds.
 - [ ] Add in Dungeons and Taverns plus add-ons.

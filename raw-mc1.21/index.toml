@@ -9,8 +9,84 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "e8f9777f464a096a79d1aaa7d4864392d4b832a591d805a237cc8a7f333e5418"
 
 [[files]]
+file = "config/fancymenu/assets/blank_button.png"
+hash = "e43f56044d01652bf6273a4d7997acec49000b8b3289d60d4feba59120f65c6b"
+
+[[files]]
+file = "config/fancymenu/assets/language.png"
+hash = "c27e119e729e184db68e5fc359befce8ae2d09d632d46bc9ee449bd116584091"
+
+[[files]]
+file = "config/fancymenu/assets/main_menu_background.png"
+hash = "77f207e356159e633e7db66572387de7345e2ced8103d7d1223db11632be99c5"
+
+[[files]]
+file = "config/fancymenu/assets/mannequin.png"
+hash = "6229d85bf30799e804d7cf6d764b4f837564e29deb792a7e5f2037e98e4648f7"
+
+[[files]]
+file = "config/fancymenu/assets/modrinth.png"
+hash = "15dd8729c4a61d60caeabfd2b93f7365a585c194eb3df5b9079ac9721a2990b7"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "928e81dddf934e0d3672a3f733e2005d547f280bdc248c4af6dd1b13d0a6722d"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "d0ff18a49a3945e628a21995ffca283f6271599e841fb619e8ad4bc0be320e16"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/forgeconfigapiport.toml"
 hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
 
 [[files]]
 file = "config/seasonhud-client.toml"
@@ -40,8 +116,33 @@ hash = "d40faa8d75ec7b4741146b033dca1d47368868985da3dcc6dc32fd9def5841d9"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "5f702480ec907a39e31988adad0b542969cc6b0c97091f43081acf37bc456f0f"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
